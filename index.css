@@ -1,0 +1,15 @@
+body {
+    background-image: linear-gradient(to right, #595956, #8C8C88, #BFBFBF, #F2F2F2);
+    text-align: center;
+}
+
+.cara, .coroa {
+    width: 200px;
+    padding-left: 75vh;
+    display: block;
+    
+    }
+
+.texto {
+    color: white;
+}
